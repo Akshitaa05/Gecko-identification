@@ -13,12 +13,16 @@ The model analyzes **dot structures, colors, and textures** on gecko skin to dif
 
 ---
 
-## 🔹 Technologies Used
-- Python  
-- TensorFlow / Keras  
-- NumPy  
-- OpenCV  
-- Matplotlib  
+## 🔹 Technologies Used  
+
+| Tech Stack             | Description                                |
+|------------------------|--------------------------------------------|
+| **Python**             | Core programming language                  |
+| **TensorFlow / Keras** | Deep learning framework for model building |
+| **NumPy**              | Numerical computations & arrays            |
+| **OpenCV**             | Image processing & computer vision         |
+| **Matplotlib**         | Data visualization & plotting              |
+
 
 ---
 
@@ -35,8 +39,6 @@ The model analyzes **dot structures, colors, and textures** on gecko skin to dif
 - We are training and validating the model on the augmented data  set which gives us the accuraccy of 98%.
 - When we test the model using the original dataset, the accuraccy coming is 96% which is an extremely good outcome.
 ![Model Accuracy](Figure_1.png)
-
-
 
 ---
 
