@@ -35,6 +35,8 @@ The model analyzes **dot structures, colors, and textures** on gecko skin to dif
 - We are training and validating the model on the augmented data  set which gives us the accuraccy of 98%.
 - When we test the model using the original dataset, the accuraccy coming is 96% which is an extremely good outcome.
 
+---
+
 ## 🔹 Future Scope
 - 📈 Train with larger datasets for higher accuracy  
 - 🤖 Apply transfer learning (e.g., ResNet, VGG16)  
